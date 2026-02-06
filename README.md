@@ -1,5 +1,8 @@
+<div align="center"> 
+  https://github.com/user-attachments/assets/5be65b66-cbd0-4f49-bc37-20d2dbf185ff
+</div>
+
 <div align="center">
-https://github.com/user-attachments/assets/5be65b66-cbd0-4f49-bc37-20d2dbf185ff
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
